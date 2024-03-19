@@ -22,7 +22,7 @@ const producto = {
 // console.log(nombre)
 // console.log(disponible)
 
-// Object Literal Enhacement 
+// Object Literal Enhacement  
 const autenticado = true
 const usuario = 'Luis'
 
